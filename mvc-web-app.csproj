@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>mvc_web_app</RootNamespace>
+    xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
   </PropertyGroup>
 
 </Project>
